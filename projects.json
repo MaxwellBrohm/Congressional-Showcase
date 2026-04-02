@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "slug": "IA-03",
+    "name": "Joey Zambreno",
+    "appName": "IAHeroes",
+    "description": "IAHeroes is a comprehensive digital archive where veterans, their families, and community members can submit, explore, and interact with veteran stories, creating a lasting legacy for future generations.",
+    "thumbnail": "sites/IA-03/thumbnail.png",
+    "location": {
+      "lat": 41.619549,
+      "lng": -93.598022,
+      "label": "Des Moines, IA"
+    },
+    "district": "IA-03",
+    "state": "IA",
+    "tags": ["veterans", "education", "community"]
+  }
+]
