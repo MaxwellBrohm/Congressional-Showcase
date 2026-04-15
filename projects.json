@@ -1108,5 +1108,20 @@
   "district": "NJ-09",
   "state": "NJ",
   "tags": ["social", "accessibility"]
+},
+{
+  "slug": "NJ-07",
+  "name": "Maxwell Brohm & Zander Leon",
+  "appName": "ChronoIQ",
+  "description": "AI-powered study scheduler that generates Google Calendar study blocks from your Classroom assignments.",
+  "thumbnail": "sites/NJ-07/thumbnail.png",
+  "location": {
+    "lat": 40.9870,
+    "lng": -74.3765,
+    "label": "Kinnelon, NJ"
+  },
+  "district": "NJ-07",
+  "state": "NJ",
+  "tags": ["education", "ai", "productivity"]
 }
 ]
